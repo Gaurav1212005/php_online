@@ -1,6 +1,7 @@
 <a href="index.php"   type="button" class="btn btn-outline-success btn-sm" >Back to the home page </a> 
 <a href="index.php"   type="button" class="btn btn-outline-dark btn-sm" >Back to the home page </a>
 <a href="index.php"   type="button" class="btn btn-outline-danger btn-sm" >Back to the home page </a><br>
+<a href="https://php-primer-hriday.herokuapp.com/"  type="button" class="btn btn-warning" >Hriday's PHP Webpage </a><br>
 <?php  
  echo "Thank You|| Gaurav";
 ?>
